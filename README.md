@@ -27,7 +27,7 @@ Our cpp program and Make file can be stored there.
 
 In case we want to test connectivity of various websites, we should write main function like this:
 
-## Examples
+## Main function description
 
     int main(int argc, char *argv[]) 
     {
@@ -48,6 +48,16 @@ In case we want to test connectivity of various websites, we should write main f
     }
     
 But according to the test requirement is Google website, I just put it directly in curl_easy_setopt(curl_handle, CURLOPT_URL, "https://www.google.com");
+
+## Build program instruction
+
+On MacOS cmd:
+    cd /
+    cd usr/local/Cellar/
+    make
+Then it will generate output file. We execute it by running: 
+    ./output
+
 
 ## Ongoing work
 
