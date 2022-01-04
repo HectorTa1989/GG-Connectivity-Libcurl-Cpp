@@ -22,6 +22,7 @@ CURLOPT_WRITEDATA - pointer passed to the write callback.
 
 ## Environment settings
 I built the program in MacOS. So I installed curl, libcurl using brew install in cmd. After finished installation, we have the path: **/user/local/Cellar**
+
 Our cpp program and Make file can be stored there. 
 
 In case we want to test connectivity of various websites, we should write main function like this:
