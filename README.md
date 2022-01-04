@@ -52,11 +52,18 @@ But according to the test requirement is Google website, I just put it directly 
 ## Build program instruction
 
 On MacOS cmd:
+
     cd /
     cd usr/local/Cellar/
     make
+    
 Then it will generate output file. We execute it by running: 
+   
     ./output
+
+## Program output
+
+    SKTEST;<IP address : 172.217.160.68>;<HTTP response code: 200>;,Name lookup time: 0.0011000000>;<Connect time: 0.0139810000>;<Start tranfer time: 0.1204410000>;<Total time: 0.1417340000>;<50013 bytes retrieved>
 
 
 ## Ongoing work
