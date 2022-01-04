@@ -89,7 +89,7 @@ int main(int argc, char * argv[])
 
             res = curl_easy_getinfo(curl, CURLINFO_NAMELOOKUP_TIME, &NamelookupTime);
             if(res == CURLE_OK)
-                std::cout << std::fixed << std::setprecision(10) << ",Name lookup time: " << NamelookupTime << ">;";
+                std::cout << std::fixed << std::setprecision(10) << "Name lookup time: " << NamelookupTime << ">;";
             
             res = curl_easy_getinfo(curl, CURLINFO_CONNECT_TIME, &connectTime);
             if(CURLE_OK == res)
