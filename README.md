@@ -71,6 +71,8 @@ Output screen capture
 ![](https://github.com/HectorTa1989/GG-Connectivity-Libcurl-Cpp/blob/master/SK%20final%20result.jpg)
 
 
+I added output file to let others run it directly.
+
 
 ## Ongoing work
 
