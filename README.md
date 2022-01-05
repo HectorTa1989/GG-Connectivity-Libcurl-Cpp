@@ -64,11 +64,11 @@ Then it will generate output file. We execute it by running:
 
 ## Program output
 
-    SKTEST;<IP address : 172.217.160.68>;<HTTP response code: 200>;,Name lookup time: 0.0011000000>;<Connect time: 0.0139810000>;<Start tranfer time: 0.1204410000>;<Total time: 0.1417340000>;<50013 bytes retrieved>
+    SKTEST;<IP address : 142.251.42.228>;<HTTP response code: 200>;<Name lookup time: 0.0168690000>;<Connect time: 0.0294200000>;<Start tranfer time: 0.1480820000>;<Total time: 0.1656130000>;<49950 bytes retrieved>
 
 Output screen capture
 
-![](https://github.com/HectorTa1989/GG-Connectivity-Libcurl-Cpp/blob/master/SK%20test%20result.jpg)
+![](https://github.com/HectorTa1989/GG-Connectivity-Libcurl-Cpp/blob/master/SK%20final%20result.jpg)
 
 
 
